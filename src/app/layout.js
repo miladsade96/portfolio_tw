@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Milad Sadeghi Portfolio",
   description: "Milad Sadeghi Portfolio Website",
-  link: "https://miladsade.netlify.app",
+  link: "https://miladsade96.netlify.app",
 };
 
 export default function RootLayout({ children }) {
